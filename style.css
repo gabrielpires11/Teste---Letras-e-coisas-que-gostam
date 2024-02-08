@@ -1,0 +1,30 @@
+body {
+    font-family: "Protest Riot", sans-serif;
+}
+.protest-riot-regular {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.img {
+    align-items: center;
+}
+
+.cor1 {
+    background-color: #E3775B;
+    width: 1524px;
+    height: 100px;
+}
+
+.cor2 {
+    background-color: #E3A75B;
+    width: 1524px;
+    height: 100px;
+}
+
+.cor3 {
+    background-color: #E69A6F;
+    width: 1524px;
+    height: 100px;
+}
